@@ -1,3 +1,6 @@
+## Welcome to My Convex Optimization
+***
+
 ## Task
 This project focuses on implementing various algorithms and methods for convex optimization.
 The goal is to provide solutions to problems such as finding roots of equations, optimizing functions, and solving linear programming problems using the simplex methods.
