@@ -111,3 +111,4 @@ c = np.array([-1, -2])
 optimal_value, optimal_arg = solve_linear_problem(A, b, c)
 
 print("The optimal value is:", optimal_value, "and is reached for x =", optimal_arg)
+
